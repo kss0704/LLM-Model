@@ -1,2 +1,11 @@
-streamlit>=1.28.0
-requests>=2.31.0
+streamlit
+requests
+sentence-transformers
+scikit-learn
+tiktoken
+PyPDF2
+python-docx
+python-pptx
+openpyxl
+gitpython
+numpy
