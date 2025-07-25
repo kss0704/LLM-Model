@@ -1,4 +1,4 @@
-# CodeLLM - LLM Coding Assistant
+# LLM Code Assistant
 
 A powerful Streamlit-based coding assistant powered by Groq's lightning-fast LLM models. Get instant help with coding, debugging, code review, and programming in 20+ languages.
 
